@@ -77,3 +77,6 @@ def foo():[^1]
     if not bar:[^2]
 
         return True[^3]
+
+
+![This is an image](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg)
