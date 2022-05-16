@@ -55,10 +55,9 @@ Here's an ordered list, with:
  - Item three-A
   - Item three-B
 
-
-'''
+```
 This is a block quote. It should be in block quotes! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-'''
+```
 
 # This is a large heading. 
 
@@ -83,8 +82,8 @@ def foo():[^1]
 
 
 
-'''python
+```python
 def my_function():
 
   print("Hello from a function")
-'''
+```
