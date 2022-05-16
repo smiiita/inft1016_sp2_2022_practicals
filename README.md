@@ -80,6 +80,10 @@ def foo():[^1]
 
 ![This is an image](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg)
 
+|Number|Color|Size|
+|------|-----|----|
+|   1  |  3  |  6 |
+
 
 
 ```python
