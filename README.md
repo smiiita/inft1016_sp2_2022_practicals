@@ -83,7 +83,7 @@ def foo():[^1]
 
 
 
-'''ruby
+'''python
 def my_function():
 
   print("Hello from a function")
