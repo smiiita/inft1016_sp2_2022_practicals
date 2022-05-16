@@ -80,3 +80,11 @@ def foo():[^1]
 
 
 ![This is an image](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg)
+
+
+
+'''ruby
+def my_function():
+
+  print("Hello from a function")
+'''
