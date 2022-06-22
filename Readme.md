@@ -1,9 +1,9 @@
 # nft1016_sp2_Assignment_3
 
 ###### **Student info**
-*Student Name:Smita Chakraborty*
-*Student ID:110366902*
-*Student Email:chasy307@mymail.unisa.edu.au*
+1. *Student Name:Smita Chakraborty*
+2. *Student ID:110366902*
+3. *Student Email:chasy307@mymail.unisa.edu.au*
 
 ***Assignment 3***
 
